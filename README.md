@@ -1,4 +1,4 @@
-Hello everyone this side team Unity Squad,
+Hello everyone this side Aashish Kumar Singh,
 We have created a Web-Application (Hello college)
 Description:User-Friendly Full-Stack-Website , acting as a interface to solve user's problem and it will also aims to create community for different domains ,Our website also provides important materials and resources for the student.
 Tech stack used:
