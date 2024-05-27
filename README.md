@@ -50,7 +50,11 @@
   <li>Upvote and downvote system for community issues</li>
 </ul>
 <h3>Contact</h3>
-<p>For any queries or suggestions, contact us at aashishs.ug23.cs@nitp.ac.in</p>
+<p>For any queries or suggestions</p>
+
+- **Email**: [aashishs.ug23.cs@nitp.ac.in](mailto:aashishs.ug23.cs@nitp.ac.in)
+- **LinkedIn**: [LinkedIn Profile](<www.linkedin.com/in/aashish-kumar-singh-7110b02a9>)
+  - **GitHub**: [GitHub Profile](<https://github.com/AashishKumarSingh1/AashishKumarSingh1>)
 <hr>
 <h2>Thank you for visiting this project "Hello College".</h2>
 
