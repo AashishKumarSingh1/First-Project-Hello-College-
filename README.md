@@ -51,4 +51,7 @@
 </ul>
 <h3>Contact</h3>
 <p>For any queries or suggestions, contact us at aashishs.ug23.cs@nitp.ac.in</p>
+---
+
+<h2>Thank you for visiting this project "Hello College".</h2>
 
