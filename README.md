@@ -8,7 +8,7 @@
   <li><b>Database:</b>My SQL</li>
   <li><b>Frontend:</b>JavaScript, jQuery, Bootstrap, HTML, CSS</li>
 </ul>
-<h3>🔽Installation Steps:</h3>
+<h3>🪧Installation Steps:</h3>
 <ol>
   <li>Clone the Project</li>
   <li>npm init</li>
